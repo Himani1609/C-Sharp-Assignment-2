@@ -20,7 +20,7 @@ namespace CSharp_Assignment2.Controllers
 
 
         /// Question-5
-      
+
 
 
 
@@ -53,7 +53,9 @@ namespace CSharp_Assignment2.Controllers
         /// GET api/J3/code?sequences=57234&sequences=00907&sequences=34100&sequences=99999  ->  right 234
         ///                                                                                      right 907
         ///                                                                                      left 100
-        /// 
+        /// GET api/J3/code?sequences=34554&sequences=00807&sequences=56100&sequences=99999  ->  left 554
+        ///                                                                                      left 807
+        ///                                                                                      left 100                                                                                     
         /// </example>
 
 

@@ -30,3 +30,4 @@ D:\Web_Development\CSharp_Assignment2\CSharp_Assignment2\obj\Debug\net8.0\refint
 D:\Web_Development\CSharp_Assignment2\CSharp_Assignment2\obj\Debug\net8.0\CSharp_Assignment2.pdb
 D:\Web_Development\CSharp_Assignment2\CSharp_Assignment2\obj\Debug\net8.0\CSharp_Assignment2.genruntimeconfig.cache
 D:\Web_Development\CSharp_Assignment2\CSharp_Assignment2\obj\Debug\net8.0\ref\CSharp_Assignment2.dll
+D:\Web_Development\CSharp_Assignment2\CSharp_Assignment2\obj\Debug\net8.0\CSharp_Assignment2.sourcelink.json

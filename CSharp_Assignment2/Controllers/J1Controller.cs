@@ -7,6 +7,11 @@ namespace CSharp_Assignment2.Controllers
     [ApiController]
     public class J1Controller : ControllerBase
     {
+
+
+        /// Question-1
+
+
         /// <summary>
         /// Giving the number of collisions and deliveries and outputs the final score in the game.
         /// </summary>
@@ -48,6 +53,10 @@ namespace CSharp_Assignment2.Controllers
 
 
 
+
+        /// Question-2
+
+
         /// <summary>
         /// Inputs the number of regular boxes and small boxes and outputs the number of cupackes left.
         /// </summary>
@@ -57,7 +66,7 @@ namespace CSharp_Assignment2.Controllers
         /// <param name="reg_box"> number of regular boxes </param>
         /// /// <param name="small_box"> number of small boxes </param>
         /// <remarks>
-        /// Given is the number of cupackes box can hold:
+        /// Given is the number of cupackes a box can hold:
         /// Regular box(i.e. reg_box) = 8
         /// Small box(i.e. small_box) = 3
         /// </remarks>
@@ -79,36 +88,6 @@ namespace CSharp_Assignment2.Controllers
 
             return num_of_cupcakes_left;
         }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
     }
